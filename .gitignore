@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+ENV/
+env/
+*.sqlite3
+.env
+# VSCode settings
+.vscode/
+
+# Firebase config (optional if you don't want to share keys)
+firebase_config.json
+
+# Logs
+*.log
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+test.py
